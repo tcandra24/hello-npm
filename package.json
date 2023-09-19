@@ -1,0 +1,33 @@
+{
+  "name": "hello-npm-tito",
+  "version": "1.0.4",
+  "description": "hello npm tito",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hello world"
+  ],
+  "author": "Tito Candra <tcandra007@gmail.com>",
+  "engines": {
+    "node": ">4.0"
+  },
+  "homepage": "https://github.com/tcandra24/hello-npm",
+  "contributors": [
+    {
+      "name": "Tito Candra",
+      "email": "tcandra007@gmail.com",
+      "url": "https://github.com/tcandra24"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcandra24/hello-npm"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "5.0.5"
+  }
+}
